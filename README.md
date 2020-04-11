@@ -25,11 +25,9 @@ The saved model can be directly used for making predictions instead of creating 
 
 # Plotting Accuracy
 ![ACCURACY GRAPH](/images/accuracy-graph.PNG)
-### [Accuracy Graph]
 <br/>
 
 
 
 # Plotting Loss
 ![LOSS GRAPH](/images/loss-plot.PNG)
-### [Loss Graph]
