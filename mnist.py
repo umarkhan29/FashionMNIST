@@ -1,4 +1,4 @@
-import tensorflow as tf
+kimport tensorflow as tf
 # Import TensorFlow Datasets
 import tensorflow_datasets as tfds
 tfds.disable_progress_bar()
@@ -26,7 +26,7 @@ train_dataset, test_dataset = dataset['train'], dataset['test']
 #              'Sandal',      'Shirt',   'Sneaker',  'Bag',   'Ankle boot']
 
 #Defining Kashmiri Labels
-class_names = ['T-shirt/top', 'Yazaar', 'Chogi', 'Dress', 'Coat',
+class_names = ['T-shirt/top', 'Yazaar', 'Chogi', 'Ferakh', 'Coat',
                'Chapin',      'Kameez',   'Booth',  'Beag',   'Long booth']
 
 
